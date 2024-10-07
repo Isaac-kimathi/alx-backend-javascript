@@ -1,7 +1,7 @@
 {
  "type": "module", 
  "scripts": {
-	      "dev": "node 0-main.js"
+	      "dev": "node"
 	       },
   "devDependencies": {
     "@babel/core": "^7.25.7",
